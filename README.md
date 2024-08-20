@@ -21,7 +21,7 @@ Este repositorio contiene una colección de proyectos en lenguaje C, cada uno co
    - Descripción: Este proyecto incluye la implementación de varias estructuras de datos y algoritmos utilizados para resolver un problema específico.
 
 5. **juego**
-   - Desarrollo de un juego utilizando buenas practicas
+   - Desarrollo de un juego dandole foco principalmente a las buenas practicas
    - Descripción: Este proyecto es un juego simple en C, que puede incluir lógica basada en estructuras de datos como pilas, colas o árboles.
 
 6. **manejo_de_archivos**
